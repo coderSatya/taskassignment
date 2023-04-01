@@ -1,6 +1,4 @@
 import { Box, Typography, makeStyles } from '@material-ui/core';
-import Youtube from '../Assets/Images/youtube.png';
-import InstaTele from '../Assets/Images/InstaTele.jpeg';
 import './Style.css';
 
 const useStyles = makeStyles({
