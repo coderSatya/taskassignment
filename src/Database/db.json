@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "firstname": "Golu",
+      "lastname": "Gupta",
+      "address": "Patna",
+      "birthdate": "2023-04-21",
+      "id": 1
+    },
+    {
+      "firstname": "Naman",
+      "lastname": "Ojha",
+      "address": "Mumbai",
+      "birthdate": "2023-04-21",
+      "id": 2
+    },
+    {
+      "firstname": "Murlifgd",
+      "lastname": "Vijay",
+      "address": "Knakeaaa",
+      "birthdate": "2023-07-19",
+      "id": 3
+    }
+  ]
+}
